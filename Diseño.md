@@ -1,0 +1,1 @@
+El diseño de la web siempre tiene que ser estetico visual minimalista y que se entienda todo

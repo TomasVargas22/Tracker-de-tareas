@@ -1,0 +1,26 @@
+# Dependencias
+node_modules/
+dist/
+out/
+
+# Credenciales (NUNCA subir a Git)
+credentials/
+*.credentials.json
+oauth-tokens.json
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Base de datos local
+*.db
+*.sqlite
+
+# Variables de entorno
+.env
+.env.local
