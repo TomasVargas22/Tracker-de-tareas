@@ -24,3 +24,7 @@ Thumbs.db
 # Variables de entorno
 .env
 .env.local
+
+.agents/
+.codex/
+Frames/
