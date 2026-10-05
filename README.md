@@ -1,8 +1,8 @@
-# CRM Personal — Aplicación de Escritorio
+# Tracker de Tareas & CRM Personal 🚀
 
 > Centraliza tu día a día: calendario, correos, tareas y herramientas en un solo lugar.
 
-Aplicación de escritorio construida con **Electron + React + TypeScript + SQLite**, diseñada con un estilo visual inspirado en Blomstra CRM.
+Aplicación de escritorio construida con **Electron + React + TypeScript + SQLite**, diseñada con un estilo visual moderno, minimalista y de alto rendimiento.
 
 ---
 
@@ -12,13 +12,14 @@ Aplicación de escritorio construida con **Electron + React + TypeScript + SQLit
 
 - **Node.js** v18 o superior ([descargar](https://nodejs.org/))
 - **npm** (incluido con Node.js)
-- **Git** (opcional, para clonar el proyecto)
+- **Git** (para clonar el proyecto)
 
 ### Instalación
 
 ```bash
-# 1. Navegar al directorio del proyecto
-cd "Proyecto 1"
+# 1. Clonar y navegar al directorio
+git clone https://github.com/TomasVargas22/Tracker-de-tareas.git
+cd Tracker-de-tareas
 
 # 2. Instalar dependencias
 npm install
@@ -190,4 +191,7 @@ SQLite
 
 ---
 
-*Construido con ❤️ como proyecto de aprendizaje*
+## 👤 Desarrollado por
+
+**Tomás Vargas (Kaxfv)**  
+*Desarrollador Web · San José, Costa Rica*
